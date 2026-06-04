@@ -11,6 +11,12 @@ body {
     padding:1%;
 }
 
+h1.page-header{
+    width:80%;
+    margin:auto;
+    text-align:center;
+}
+
 /* start nav rules */
 nav{
     text-align:center; /* centers the nav */
